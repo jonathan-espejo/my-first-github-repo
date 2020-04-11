@@ -1,2 +1,2 @@
 # my-first-github-repo
-My first github repo...updated locally
+This was updated manually to resolved conflict resolution
